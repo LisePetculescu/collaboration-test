@@ -14,4 +14,9 @@ function endnuEnLog(params) {
 
 function endnuEndnuEnLog() {
   console.log("b logger");
+  viLoggerVidere();
+}
+
+function viLoggerVidere(params) {
+  console.log("logggggggggg dog");
 }
