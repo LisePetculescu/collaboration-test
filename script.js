@@ -30,4 +30,6 @@ function viLoggerVidere(params) {
 
 function nyFunktion() {
     console.log("viLoggerVidere");
+    console.log("hello", "buster");
 }
+
