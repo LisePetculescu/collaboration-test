@@ -14,4 +14,5 @@ function endnuEnLog(params) {
 
 function endnuEndnuEnLog() {
   console.log("b logger");
+  console.log("hej hej A");
 }
