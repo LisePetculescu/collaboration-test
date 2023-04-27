@@ -26,6 +26,13 @@ function viLoggerVidere(params) {
   console.log("logggggggggg dog 22222222222");
 
   nyFunktion();
+  punkt3Logs();
+}
+
+function punkt3Logs(params) {
+  console.log("3.1");
+  console.log("3.2");
+  console.log("3.3");
 }
 
 function nyFunktion() {
