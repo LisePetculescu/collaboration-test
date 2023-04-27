@@ -24,4 +24,9 @@ function endnuEndnuEnLog() {
 function viLoggerVidere(params) {
   console.log("logggggggggg dog");
   console.log("logggggggggg dog 22222222222");
+  punkt3Logs();
+}
+
+function punkt3Logs(params) {
+  console.log("3.1");
 }
