@@ -15,4 +15,7 @@ function endnuEnLog(params) {
 function endnuEndnuEnLog() {
   console.log("b logger");
   console.log("hej hej A");
+
+  console.log("b: 2.1")
+  console.log("b. 2.2");
 }
