@@ -29,4 +29,5 @@ function viLoggerVidere(params) {
 
 function punkt3Logs(params) {
   console.log("3.1");
+  console.log("3.2");
 }
