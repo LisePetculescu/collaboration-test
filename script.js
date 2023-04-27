@@ -24,4 +24,10 @@ function endnuEndnuEnLog() {
 function viLoggerVidere(params) {
   console.log("logggggggggg dog");
   console.log("logggggggggg dog 22222222222");
+
+  nyFunktion();
+}
+
+function nyFunktion() {
+    console.log("viLoggerVidere");
 }
