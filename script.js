@@ -36,7 +36,6 @@ function punkt3Logs(params) {
 }
 
 function nyFunktion() {
-    console.log("viLoggerVidere");
-    console.log("hello", "buster");
+  console.log("viLoggerVidere");
+  console.log("hello", "buster");
 }
-
